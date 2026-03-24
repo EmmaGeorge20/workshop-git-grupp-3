@@ -1,5 +1,5 @@
 def run():
-    print ("1a Add\n0 Exit")
+    print ("1) Add\n2) Subtract\n0) Exit")
     choice = input("Select: ")
    
    
